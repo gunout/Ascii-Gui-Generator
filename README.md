@@ -12,10 +12,11 @@ Image to Ascii Art Program ( GUI ) .
 
 # RUN 
 
-  python ascii_gui.py
+      python ascii_gui.py
 
 
 
+# Program Gui 
 
 ![example](https://github.com/user-attachments/assets/36b36f2b-e393-4e4d-99da-094d7320784a)
 
