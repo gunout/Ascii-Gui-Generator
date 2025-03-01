@@ -29,7 +29,8 @@ Original :
 Ascii art : 
 
 
-![Freedom](https://github.com/user-attachments/assets/d0f21d45-f0c4-460f-a862-d0ccd022b1f7)
+![Freedomhybrid](https://github.com/user-attachments/assets/4ffae4cc-63cd-41a1-8173-d0b6e9781cdf)
+
 
 
 1 . On peut Mofidfier la Fonts , Régler sa taille 
